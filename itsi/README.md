@@ -1,5 +1,5 @@
 ## Summary
-The ITSI Content Pack for Fortinet FortiGate from Kinney Group is specifically designed to monitor system health related to Fortinet FortiGate. It leverages Splunk ITSI to provide in-depth analysis and visualization of logs for Fortinet FortiGate, ensuring critical systems are operating optimally. This content pack is an essential tool for IT professionals looking to enhance the reliability and performance of their Fortinet FortiGate infrastructure.
+The ITSI Content Pack for Fortinet FortiGate from Presidio Splunk Solutions is specifically designed to monitor system health related to Fortinet FortiGate. It leverages Splunk ITSI to provide in-depth analysis and visualization of logs for Fortinet FortiGate, ensuring critical systems are operating optimally. This content pack is an essential tool for IT professionals looking to enhance the reliability and performance of their Fortinet FortiGate infrastructure.
 
 * Comprehensive Performance Monitoring: Offers detailed insights into Fortinet FortiGate system health, network traffic, and security events, enabling optimized resource utilization.
 * Critical System Status Tracking: Monitors the real-time operational status of Fortinet FortiGate systems, helping IT professionals swiftly identify and address potential issues.
@@ -7,17 +7,20 @@ The ITSI Content Pack for Fortinet FortiGate from Kinney Group is specifically d
 
 This ITSI Content Pack is open source and available for community collaboration and enhancement on [GitHub](https://www.github.com/kinneygroup).
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
 
 ## Details
 The ITSI Content Pack for Fortinet FortiGate contains service definitions and KPIs ready to import to ITSI. The KPI Thresholds and importance values are set to defaults so that they can be tuned manually for your use case. After configuration, this content pack provides a comprehensive monitoring solution for Fortinet FortiGate systems.
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Fortinet FortiGate Log Reference](https://docs.fortinet.com/document/fortigate/7.4.4/fortios-log-message-reference/524940/introduction)
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas).
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
 
 ### Services
 Fortinet FortiGate monitoring encompasses several specialized services, each targeting specific aspects of system performance and security:
+
 
 1. Fortinet FortiGate System Health
     * Description: Monitors overall health and performance of the Fortinet FortiGate system, encompassing all aspects including traffic, security, and event logs.
@@ -71,26 +74,27 @@ Some services form a hierarchy, illustrating a layered approach to performance m
 
 ## Troubleshooting
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
 [Github and Readme](https://www.github.com/kinneygroup)
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
 ## Contact
 
 To provide feedback, visit our [Github and Readme](https://www.github.com/kinneygroup) for our content packs.
 
-support@kinneygroup.com
+atlssupport@presidio.com
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Products, visit our [website](https://kinneygroup.com/atlas).
 
 ## Version History
 
 | Version | Date  | Description               |
 |---------|-------|---------------------------|
 | 0.0.1   | 06/03/24 | Initial Preview Release   |
+| 1.0.0   | 05/19/25 | Documenation Update |
 
 ## Considerations:
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
